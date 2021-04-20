@@ -16,4 +16,4 @@ Buy, Add New Products, Existing Product Gallery, Add Comments/Reviews, Advanced 
 - In the backend type npm run prod to run in production mode / dev to run in development mode.
 - Navigate to the frontend folder with cd /frontend and type start.
 
- ###### 🛍️ Enjoy shopping online 🛍️ ######
+ ###### 🛍️ Enjoy Shopping Online 🛍️ ######
