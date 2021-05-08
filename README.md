@@ -17,4 +17,4 @@ Buy, Add New Products, Existing Product Gallery, Add Comments/Reviews, Advanced 
 ##### 6. In the backend terminal type ***`npm run prod/dev`*** to start the server in production or development mode #####
 ##### 7. In the frontend terminal type ***`npm start`*** to start the app #####
 
- ###### 🛍️ Enjoy Shopping Online ! 🛍️ ######
+###### 📚 *Enjoy Shopping Online !* 📚 ######
